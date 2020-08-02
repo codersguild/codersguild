@@ -1,6 +1,5 @@
-### LinkedIn : 
 <a href="[https://www.linkedin.com/in/sumit-lahiri-74ba62192/](https://www.linkedin.com/in/sumit-lahiri-74ba62192/)">
-  <img align="left" alt="Sumit's Linkedin" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  LinkedIn <img align="left" alt="Sumit's Linkedin" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 ### My Stats 😃😃
@@ -12,6 +11,6 @@
 ### ❤️ by starring some of my repositories
 
 <p align="center"> 
-  Vists ✨✨<br><br>
+  Visitors ✨✨<br><br>
   <img src="https://profile-counter.glitch.me/codersguild/count.svg" />
 </p>
