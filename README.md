@@ -1,6 +1,4 @@
-<a href="[https://www.linkedin.com/in/sumit-lahiri-74ba62192/](https://www.linkedin.com/in/sumit-lahiri-74ba62192/)">
-  LinkedIn <img align="left" alt="Sumit's Linkedin" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
 
 ### My Stats 😃😃
 <a href="https://github.com/codersguild">
@@ -8,7 +6,9 @@
 </a>
 <div align="center">
 
-### ❤️ by starring some of my repositories
+### ❤️ by starring some of my repositories <a href="[https://www.linkedin.com/in/sumit-lahiri-74ba62192/](https://www.linkedin.com/in/sumit-lahiri-74ba62192/)">
+  <img align="left" alt="Sumit's Linkedin" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <p align="center"> 
   Visitors ✨✨<br><br>
