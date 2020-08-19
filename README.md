@@ -1,9 +1,9 @@
 # I ❤️ developing software
 
 I am a mechie-turned full stack javascript developer, pursuing a Ph.D. from IIT Kanpur on Formal & Semi-Formal Verification for Machine Learning (Reinforcement Learning). I am an 
-expert on Blockchain technologies namely Fabric, EVM-Solidity & Bitcoin (bitcoin-core). Apart from research, I am building a Web SaaS platform which makes me some good side money. 
+expert on Blockchain technologies namely Fabric, EVM-Solidity & Bitcoin (bitcoin-core). Apart from research, I am building a Web SaaS platform which makes me some good side-money. 
 I have good working experience with Node.js, Mocha, Jest, Webpack, Angular, React, Redux, Overmind, Express, MongoDB, PostgreSQL, Socket-io, WebRTC, AWS, GCP, Vercel, Dockers & 
-Kubernetes. I am available for consultation on your tech stack. Feel free to reach me at lahiri.devs@gmail.com
+Kubernetes. I am available for consultation on your tech stack. Feel free to reach me at lahiri.devs@gmail.com. ###Not looking for CTO roles right now. 
 
 ## My Stats 😃😃
 <a href="https://github.com/codersguild">
