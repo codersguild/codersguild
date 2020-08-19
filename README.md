@@ -1,5 +1,10 @@
 # I ❤️ developing software
 
+I am a mechie-turned full stack javascript developer, pursuing a Ph.D. from IIT Kanpur on Formal & Semi-Formal Verification for Machine Learning (Reinforcement Learning). I am an 
+expert on Blockchain technologies namely Fabric, EVM-Solidity & Bitcoin (bitcoin-core). Apart from research, I am building a Web SaaS platform which makes me some good side money. 
+I have good working experience with Node.js, Angular, React, Redux, Express, Mongo, Postgres, Sockets-io, AWS, GCP, Vercel, Dockers & Kubernetes. I am available for consultation 
+on your tech stack, drop me a mail at lahiri.devs@gmail.com 
+
 ## My Stats 😃😃
 <a href="https://github.com/codersguild">
  <img align="center"  height="100%" width="100%" src="https://github-readme-stats.vercel.app/api?username=codersguild&show_icons=true&theme=light&line_height=30" alt="Sumit Lahiri's GitHub Stats"/>
