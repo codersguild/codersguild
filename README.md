@@ -5,7 +5,7 @@ expert on Blockchain technologies namely Fabric, EVM-Solidity & Bitcoin (bitcoin
 I have good working experience with Node.js, Mocha, Jest, Webpack, Angular, React, Redux, Overmind, Express, MongoDB, PostgreSQL, Socket-io, WebRTC, AWS, GCP, Vercel, Dockers & 
 Kubernetes. I am available for consultation on your tech stack. Feel free to reach me at lahiri.devs@gmail.com. 
 
-#### PS : Not looking for CTO/SDE roles right now. However, I am available for side consultation.
+#### PS : Not looking for CTO/SDE roles right now. However, I am available for tech consultation on neede basis
 
 ## My Stats 😃😃
 <a href="https://github.com/codersguild">
