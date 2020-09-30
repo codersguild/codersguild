@@ -7,7 +7,7 @@ Apart from research, I spend time building MERN/PERN Stack web apps for startups
 Angular, React, Redux, Overmind, Express, MongoDB, PostgreSQL, Socket-io, WebRTC, AWS, GCP, Vercel, Dockers & Kubernetes. I am available for consultation on your tech stack. Feel 
 free to reach me at lahiri.devs@gmail.com. 
 
-#### Participate in Tech-Talk Saturdays : lahiri.devs@gmail.com
+#### Do you love SWE? join in @Tech-Talk Saturdays : lahiri.devs@gmail.com
 
 #### PS : Not looking for CTO/SDE roles right now. However, I am available for all kinds of tech consultation on need basis.
 
