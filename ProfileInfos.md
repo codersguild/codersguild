@@ -1,6 +1,8 @@
 ### Netlify 
 
 https://lahiri.netlify.app/
+https://vidconf.netlify.app/
+https://reactfullstack.netlify.app/
 
 ### LinkedIn
 
