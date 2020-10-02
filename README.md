@@ -13,12 +13,12 @@ free to reach me at lahiri.devs@gmail.com.
 
 ### Some Good things all developers should do 
 
-- Ask questions and get reviewed when in doubt.
+- Ask questions and get reviewed when in doubt. 🤔🤔
 - Experiment with things, that will help you learn.
 - Learn from the experts (if you have the oppurtunity).
-- Stick to one project at a time. 
-- Don't work on multiple hot-fixes at the same time
-- Never miss an oppurtunity to learn the basics. (Nothing can replace core CS Fundamentals)
+- Stick to one project at a time. But do have other projects in your todo. 😉
+- Don't work on multiple hot-fixes at the same time. 😠
+- Never miss an oppurtunity to learn the basics. (Nothing can replace core CS Fundamentals) 😊
 - Keep collaborating. 
 
 ## My Stats 😃😃
