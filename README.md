@@ -26,8 +26,3 @@ free to reach me at lahiri.devs@gmail.com.
  <img align="center"  height="100%" width="100%" src="https://github-readme-stats.vercel.app/api?username=codersguild&show_icons=true&theme=light&line_height=30" alt="Sumit Lahiri's GitHub Stats"/>
 </a>
 <div align="center">
-
-<p align="center"> 
-  ✨✨ Visitors ✨✨<br><br>
-  <img src="https://profile-counter.glitch.me/codersguild/count.svg" />
-</p>
