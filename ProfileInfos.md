@@ -1,21 +1,25 @@
 ### Netlify 
 
-https://lahiri.netlify.app/
-https://vidconf.netlify.app/
-https://reactfullstack.netlify.app/
+- https://lahiri.netlify.app/
+- https://vidconf.netlify.app/
+- https://reactfullstack.netlify.app/
 
 ### LinkedIn
 
-https://www.linkedin.com/in/sumit-lahiri/
+- https://www.linkedin.com/in/sumit-lahiri/
+
+### Twitter 
+
+- https://twitter.com/thenaivecoder
 
 ### GitHub
 
-https://github.com/codersguild
+- https://github.com/codersguild
 
 ### Research Profile 
 
-https://github.com/lahiri-phdworks
+- https://github.com/lahiri-phdworks
 
 ### CSE IIT Kanpur
 
-https://www.cse.iitk.ac.in/users/sumitl/
+- https://www.cse.iitk.ac.in/users/sumitl/
