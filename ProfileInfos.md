@@ -23,3 +23,7 @@
 ### CSE IIT Kanpur
 
 - https://www.cse.iitk.ac.in/users/sumitl/
+
+### StackOverflow 
+
+- https://stackoverflow.com/users/6243681/csengineer
