@@ -24,11 +24,9 @@ free to reach me at lahiri.devs@gmail.com.
 <a href="https://github.com/codersguild">
  <img align="center"  height="100%" width="100%" src="https://github-readme-stats.vercel.app/api?username=codersguild&show_icons=true&theme=light&line_height=30" alt="Sumit Lahiri's GitHub Stats"/>
 </a>
-<div align="center">
 
 ### My Research Works Profile 😎
 
 <a href="https://github.com/lahiri-phdworks">
  <img align="center"  height="90%" width="90%" src="https://github-readme-stats.vercel.app/api?username=lahiri-phdworks&show_icons=true&theme=dark&line_height=20" alt="PhD Works Stats"/>
 </a>
-<div align="center">
