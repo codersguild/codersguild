@@ -9,8 +9,6 @@ free to reach me at lahiri.devs@gmail.com.
 
 #### Do you love SWE? mail for @Tech-Talk Saturdays : lahiri.devs@gmail.com
 
-#### PS : Not looking for CTO/SDE roles right now. However, I am available for all kinds of tech consultation on need basis.
-
 ### Some good things I learned from my development experience.  
 
 - Ask questions and get reviewed when in doubt. 🤔🤔
