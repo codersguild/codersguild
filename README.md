@@ -11,15 +11,7 @@ free to reach me at lahiri.devs@gmail.com.
 
 ## Slack Campus Lead : https://slackcommunity.com/u/mbhef9/#/about 
 
-### Some good things I learned from my development experience.  
-
-- Ask questions and get reviewed when in doubt. 🤔🤔
-- Experiment with things, that will help you learn.
-- Learn from the experts (if you have the oppurtunity).
-- Stick to one project at a time. But do have other projects in your todo. 😉
-- Don't work on multiple hot-fixes at the same time. 😠
-- Never miss an oppurtunity to re-learn the basics. (Nothing can replace core CS Fundamentals) 😊
-- Keep collaborating. 
+![what_is_life](https://raw.githubusercontent.com/codersguild/codersguild/master/background_image.png)
 
 <a href="https://github.com/codersguild">
  <img align="center"  height="100%" width="100%" src="https://github-readme-stats.vercel.app/api?username=codersguild&show_icons=true&theme=light&line_height=30" alt="Sumit Lahiri's GitHub Stats"/>
