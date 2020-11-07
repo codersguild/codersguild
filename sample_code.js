@@ -30,6 +30,11 @@ const auth_object = {
 	jwt_header_auth : "e34rddedf2wdsd45gbbn6809opgsdv570ohdfb46+v54tvp/oo90o"
 }
 
+getRequest();
+checkPostRequest();
+loginPostRequest();
+userDeletionRequest();
+
 // HTTP Get Request.
 const getRequest = async () => {
 	await axios.get("http://localhost:9123")
@@ -101,11 +106,6 @@ const userDeletionRequest = async () => {
 		.then(res => console.log(res.data))
 	  	.catch(error => console.log(error))
 } 
-
-getRequest();
-checkPostRequest();
-loginPostRequest();
-userDeletionRequest();
 
 // Async & Await is not required here. Overkill ??
 const socketEmitHandler = async (event, data) => {
