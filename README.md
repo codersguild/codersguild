@@ -9,7 +9,7 @@ Apart from research, I spend time building MERN/PERN Stack web apps for startups
 
 ## Slack Campus Lead : https://slackcommunity.com/u/mbhef9/#/about 
 
-# I am 🤩 about software architecture
+# I am 🤩 about Software Architecture & System Design
 
 For the past two years, I have been consulting various startups on the tect stack they use & the system design for there core apps. Checkout my `System Design` repository for insights and articles I read over the past years. I have implemented some of them for my own ideas and for `PingTrader` as well. Check out `educative.io` for an awesome course on `System Design` (recommended by [highscalability.com](https://www.highscalability.com)) 
 
