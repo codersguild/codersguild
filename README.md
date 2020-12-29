@@ -2,7 +2,7 @@
 
 I am a mechie-turned full stack developer, pursuing a Ph.D. from IIT Kanpur on Formal & Semi-Formal Verification along with Program Analysis. I am an 
 expert on Blockchain technologies namely `Fabric`, `EVM-Solidity`, `Ethereum` & `Bitcoin` (bitcoin-core) and have a fair understanding on how these work.
-Apart from research, I spend time building MERN/PERN Stack web apps for startups or demonstration purpose. I have a good working experience with the following 
+Apart from research, I spend time building MERN/PERN Stack web apps for startups or demonstration purpose. I have a good working experience with the following. I use them very frequntly and have a good understanding of these languages/tools/frameworks  
 
 | FrontEnd    | BackEnd     | Databases     | Other Frameworks & Tools | 
 | :---        |    :----:   |     :----:    |      :----:              |
