@@ -4,25 +4,15 @@ I am a mechie-turned full stack developer, pursuing a Ph.D. from IIT Kanpur on F
 expert on Blockchain technologies namely `Fabric`, `EVM-Solidity`, `Ethereum` & `Bitcoin` (bitcoin-core) and have a fair understanding on how these work.
 Apart from research, I spend time building MERN/PERN Stack web apps for startups or demonstration purpose. I have a good working experience with the following 
 
-- `C/CPP`
-- `Clang/LLVM`
-- `Node.js`
-- `Mocha`
-- `Jest`
-- `Webpack`
-- `React`
-- `Redux`
-- `Overmind`
-- `Express`
-- `MongoDB`
-- `PostgreSQL`
-- `Socket-IO`
-- `WebRTC`
-- `Amazon Web Services`
-- `Google Cloud Platform`
-- `gRPC`
-- `Docker`
-- `Kubernetes`
+| FrontEnd    | BackEnd     | Databases     | Other Frameworks & Tools | 
+| :---        |    :----:   |          ---: |                      ---:|
+| `React`     | `C/CPP`     | `PostgreSQL`  | `LLVM/Clang`             | 
+| `Redux`     | `Node.js`   | `MongoDB`     | `Docker`                 |
+| `Overmind`  | `Express`   | `CouchDB`     | `Kubernetes`             |
+| `HTML5`     | `Socket-IO` | `MySQL`       | `Bash Scripting`         |
+| `CSS3`      | `WebRTC`    | `LevelDB`     | `Travis CI`              |
+| `Vanilla JS`| `gRPC`      |               |                          |
+
 
 I am available for consultation on your tech stack. Feel free to reach me at lahiri.devs@gmail.com. 
 
