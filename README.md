@@ -5,16 +5,17 @@ expert on Blockchain technologies namely `Fabric`, `EVM-Solidity`, `Ethereum` & 
 Apart from research, I spend time building MERN/PERN Stack web apps for startups or demonstration purpose. I have a good working experience with the following 
 
 | FrontEnd    | BackEnd     | Databases     | Other Frameworks & Tools | 
-| :---        |    :----:   |          ---: |                      ---:|
-| `React`     | `C/CPP`     | `PostgreSQL`  | `LLVM/Clang`             | 
+| :---        |    :----:   |     :----:    |      :----:              |
+| `React`     | `golang`    | `PostgreSQL`  | `LLVM/Clang`             | 
 | `Redux`     | `Node.js`   | `MongoDB`     | `Docker`                 |
 | `Overmind`  | `Express`   | `CouchDB`     | `Kubernetes`             |
 | `HTML5`     | `Socket-IO` | `MySQL`       | `Bash Scripting`         |
 | `CSS3`      | `WebRTC`    | `LevelDB`     | `Travis CI`              |
-| `Vanilla JS`| `gRPC`      |               |                          |
+| `Vanilla JS`| `gRPC`      | `BlockDB`     |                          |
 
+Cloud Platforms : `AWS`, `Firebase` & `Google Cloud Platform`.
 
-I am available for consultation on your tech stack. Feel free to reach me at lahiri.devs@gmail.com. 
+I am available for consultation on your `tech stack`. Schedule @ https://calendly.com/sumit-lahiri-dev/tech-discussions?month=2020-12
 
 ## I am 🤩 about Software Architecture & System Design
 
