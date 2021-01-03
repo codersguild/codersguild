@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/193ef422-9b94-41e6-b399-7ae4dd74d436/deploy-status)](https://app.netlify.com/sites/lahiri/deploys)
+
 ## I ❤️ developing software
 
 I am a mechie-turned full stack developer, pursuing a Ph.D. from IIT Kanpur on Formal & Semi-Formal Verification along with Program Analysis. I am an 
