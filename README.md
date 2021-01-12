@@ -2,9 +2,7 @@
 
 ## I ❤️ developing software
 
-I am a mechie-turned full stack developer, pursuing a Ph.D. from IIT Kanpur on Formal & Semi-Formal Verification along with Program Analysis. I am an 
-expert on Blockchain technologies namely `Fabric`, `EVM-Solidity`, `Ethereum` & `Bitcoin` (bitcoin-core) and have a fair understanding on how these work.
-Apart from research, I spend time building MERN/PERN Stack web apps for startups or demonstration purpose. I have a good working experience with the following. I use them very frequntly and have a good understanding of these languages/tools/frameworks  
+I am a full-stack developer pursuing a Ph.D. from IIT Kanpur on `Program Analysis` & `Verification` using `ML` and `formal methods`. I have been a developer using Blockchain technologies namely `Fabric`, `EVM-Solidity` & `Bitcoin (bitcoin-core)`. My technical expertise lies in delivering full-stack applications from development to deployment.  I have a good working experience with the following. I use them very frequntly and have a good understanding of these languages/tools/frameworks  
 
 | FrontEnd    | BackEnd     | Databases     | Other Frameworks & Tools | 
 | :---        |    :----:   |     :----:    |      :----:              |
@@ -13,11 +11,11 @@ Apart from research, I spend time building MERN/PERN Stack web apps for startups
 | `Overmind`  | `Express`   | `CouchDB`     | `Kubernetes`             |
 | `HTML5`     | `Socket-IO` | `MySQL`       | `Bash Scripting`         |
 | `CSS3`      | `WebRTC`    | `LevelDB`     | `Travis CI`              |
-| `Vanilla JS`| `gRPC`      | `BlockDB`     |                          |
+| `Vanilla JS`| `gRPC`      | `BlockDB`     | `Netlify, Now.sh`        |
 
-Cloud Platforms : `AWS`, `Firebase` & `Google Cloud Platform`.
+Other Cloud Platforms : `AWS`, `Firebase` & `Google Cloud Platform`.
 
-I am available for consultation on your `tech stack`. Schedule @ https://calendly.com/sumit-lahiri-dev/tech-discussions?month=2020-12
+I am available for consultation on your `tech-stack`. Schedule @ https://calendly.com/sumit-lahiri-dev/tech-discussions?month=2020-12
 
 ## I am 🤩 about Software Architecture & System Design
 
