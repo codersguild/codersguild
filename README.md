@@ -17,6 +17,8 @@ Other Cloud Platforms : `AWS`, `Firebase` & `Google Cloud Platform`.
 
 I am available for consultation on your `tech-stack`. Schedule @ https://calendly.com/sumit-lahiri-dev/tech-discussions?month=2020-12
 
+Want to know a bit more about my background? (It is getting weird but I understand) : [Life in Tech Summarized](https://www.quora.com/Even-after-scoring-a-rank-of-5-in-Google-Kickstart-Round-B-last-year-an-Indian-guy-who-graduated-in-the-same-year-didnt-get-interview-call-What-are-the-other-things-one-should-also-focus-on-to-increase-the-chances)
+
 ## I am 🤩 about Software Architecture & System Design
 
 For the past two years, I have been consulting various startups on the tect stack they use & the system design for there core apps. Checkout my `System Design` repository for insights and articles I read over the past years. I have implemented some of them for my own ideas and for `PingTrader` as well. Check out `educative.io` for an awesome course on `System Design` (recommended by [highscalability.com](https://www.highscalability.com)) 
