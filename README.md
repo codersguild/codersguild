@@ -4,7 +4,7 @@
 
 I am a full-stack developer pursuing a Ph.D. from IIT Kanpur on `Program Analysis` & `Verification` using `ML` and `formal methods`. I have been a developer using Blockchain technologies namely `Fabric`, `EVM-Solidity` & `Bitcoin (bitcoin-core)`. My technical expertise lies in delivering full-stack applications from development to deployment.  I have a good working experience with the following. I use them very frequntly and have a good understanding of these languages/tools/frameworks  
 
-| FrontEnd    | BackEnd     | Databases     | Other Frameworks & Tools | 
+| FrontEnd    | BackEnd     | Databases / Stores    | Other Frameworks & Tools | 
 | :---        |    :----:   |     :----:    |      :----:              |
 | `React`     | `golang`    | `PostgreSQL`  | `LLVM/Clang`             | 
 | `Redux`     | `Node.js`   | `MongoDB`     | `Docker`                 |
