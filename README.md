@@ -1,4 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/193ef422-9b94-41e6-b399-7ae4dd74d436/deploy-status)](https://app.netlify.com/sites/lahiri/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b7d665b3-a61d-42e1-a5d9-9916132a85dc/deploy-status)](https://app.netlify.com/sites/lahiri/deploys)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/efebf3ed-578f-4ee7-aebb-97cd0cb70ea3/deploy-status)](https://app.netlify.com/sites/reactfullstack/deploys)
 
 ## I ❤️ developing software
 
