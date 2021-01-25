@@ -9,10 +9,10 @@ I am a full-stack developer pursuing a Ph.D. from IIT Kanpur on `Program Analysi
 | :---        |    :----:   |     :----:    |      :----:              |
 | `React`     | `golang`    | `PostgreSQL`  | `LLVM/Clang`             | 
 | `Redux`     | `Node.js`   | `MongoDB`     | `Docker`                 |
-| `Overmind`  | `Express`   | `CouchDB`     | `Kubernetes`             |
+| `Overmind.js`| `Express`   | `CouchDB`     | `Kubernetes`             |
 | `HTML5`     | `Socket-IO` | `MySQL`       | `Bash Scripting`         |
 | `CSS3`      | `WebRTC`    | `LevelDB`     | `Travis CI`              |
-| `Vanilla JS`| `gRPC`      | `BlockDB`     | `Netlify, Now.sh`        |
+| `JavaScript`| `gRPC`      | `BlockDB`     | `Netlify, Now.sh`        |
 
 Other Cloud Platforms : `AWS`, `Firebase` & `Google Cloud Platform`.
 
