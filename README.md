@@ -31,7 +31,7 @@ For the past two years, I have been consulting various `startups` on the `tech-s
 #### Slack Campus Lead : https://slackcommunity.com/u/mbhef9/#/about 
 
 <a href="https://github.com/codersguild">
-  <img align="center" height="35%" width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersguild&show_icons=true&theme=light&line_height=30" />
+  <img align="center" height="35%" width="37%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersguild&show_icons=true&theme=light&line_height=30" />
 </a>
 <a href="https://github.com/codersguild">
  <img align="center"  height="75%" width="60%" src="https://github-readme-stats.vercel.app/api?username=codersguild&count_private=true&show_icons=true&theme=light&line_height=30" alt="Sumit Lahiri's GitHub Stats"/>
