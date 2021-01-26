@@ -24,7 +24,7 @@ Want to know a bit more about my background? (It is getting weird but I understa
 
 For the past two years, I have been consulting various `startups` on the `tech-stack` they use. Checkout my `System Design` repository for insights and articles I read over the past years. I have implemented some of them for my own ideas and for `PingTrader` & `Pluto-Office` as well. Check out `educative.io` for an awesome course on `System Design` (recommended by [highscalability.com](https://www.highscalability.com)). Below is my `presentation` discussion at [`Uber`](https://eng.uber.com/locations/bangalore/)
 
-![Uber Tech Presentation](https://raw.githubusercontent.com/codersguild/codersguild/master/uber_architecture_presentation.png)
+![Uber Tech Presentation](https://raw.githubusercontent.com/codersguild/codersguild/master/images/uber_tech.png)
 
 #### Do you love SWE? mail for @Tech-Talk Saturdays : lahiri.devs@gmail.com
 
