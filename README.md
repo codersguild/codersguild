@@ -3,7 +3,7 @@
 
 ## I ❤️ developing software
 
-I am a full-stack developer pursuing a Ph.D. from IIT Kanpur on `Program Analysis` & `Verification` using `ML` and `formal methods`.My technical expertise lies in delivering `full-stack` applications from development to deployment. I help `deliver` MVP & pre-MVP apps for `startups`. 
+I am a full-stack developer pursuing a [Ph.D](https://github.com/lahiri-phdworks). from IIT Kanpur on `Program Analysis` & `Verification` using `ML` and `formal methods` under the supervision of `Dr. Subhajit Roy`. My technical expertise lies in delivering `full-stack` applications from `development` to `deployment`. I help `deliver` MVP & pre-MVP apps for `startups`. 
 
 ## Frameworks I `use` : 
 
