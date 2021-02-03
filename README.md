@@ -8,11 +8,11 @@ I am a full-stack developer pursuing a [Ph.D](https://github.com/lahiri-phdworks
 ## Frameworks I `use` : 
 
 | FrontEnd    | BackEnd     | Databases / Stores    | Deployments | Blockchain Tech | 
-| :---        |    :----:   |     :----:    |      :----:              | Bitcoin-Core |
+| :---        |    :----:   |     :----:    |      :----:              |  :----:   |
 | `React`     | `Golang`    | `PostgreSQL`  | `AWS/GCP`             | Hyperledger Fabric |
 | `Redux`     | `Node.js`   | `MongoDB`     | `Docker`                 | Solidity |
 | `Overmind.js`| `Express`   | `CouchDB`     | `Kubernetes`             | GOLEM Scripts |
-| `HTML5`     | `Socket-IO/wss` | `MySQL`       | `Heroku`         | |
+| `HTML5`     | `Socket-IO/wss` | `MySQL`       | `Heroku`         | Bitcoin-Core |
 | `CSS3`      | `WebRTC`    | `LevelDB`     | `Travis CI`              | |
 | `JavaScript`| `gRPC`      | `BlockDB`     | `Netlify, Now.sh`        | |
 
