@@ -7,14 +7,14 @@ I am a full-stack developer pursuing a [Ph.D](https://github.com/lahiri-phdworks
 
 ## Frameworks I `use` : 
 
-| FrontEnd    | BackEnd     | Databases / Stores    | Deployments | 
-| :---        |    :----:   |     :----:    |      :----:              |
-| `React`     | `Golang`    | `PostgreSQL`  | `AWS/GCP`             | 
-| `Redux`     | `Node.js`   | `MongoDB`     | `Docker`                 |
-| `Overmind.js`| `Express`   | `CouchDB`     | `Kubernetes`             |
-| `HTML5`     | `Socket-IO/wss` | `MySQL`       | `Heroku`         |
-| `CSS3`      | `WebRTC`    | `LevelDB`     | `Travis CI`              |
-| `JavaScript`| `gRPC`      | `BlockDB`     | `Netlify, Now.sh`        |
+| FrontEnd    | BackEnd     | Databases / Stores    | Deployments | Blockchain Tech | 
+| :---        |    :----:   |     :----:    |      :----:              | Bitcoin-Core |
+| `React`     | `Golang`    | `PostgreSQL`  | `AWS/GCP`             | Hyperledger Fabric |
+| `Redux`     | `Node.js`   | `MongoDB`     | `Docker`                 | Solidity |
+| `Overmind.js`| `Express`   | `CouchDB`     | `Kubernetes`             | GOLEM Scripts |
+| `HTML5`     | `Socket-IO/wss` | `MySQL`       | `Heroku`         | |
+| `CSS3`      | `WebRTC`    | `LevelDB`     | `Travis CI`              | |
+| `JavaScript`| `gRPC`      | `BlockDB`     | `Netlify, Now.sh`        | |
 
 ## `Discussions` : 
 
