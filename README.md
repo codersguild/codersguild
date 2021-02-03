@@ -14,7 +14,7 @@ I am a full-stack developer pursuing a [Ph.D](https://github.com/lahiri-phdworks
 | `Overmind.js`| `Express`   | `CouchDB`     | `Kubernetes`             | GOLEM Scripts |
 | `HTML5`     | `Socket-IO/wss` | `MySQL`       | `Heroku`         | [`Bitcoin-Core`](https://github.com/lahiri-phdworks/bitcoin) |
 | `CSS3`      | `WebRTC`    | `LevelDB`     | `Travis CI`              | `NEM` |
-| `JavaScript`| `gRPC`      | `BlockDB`     | `Netlify, Now.sh`        | |
+| `JavaScript`| `gRPC`      |   `Redis`   | `Netlify`, `Now.sh`        | `BlockDB`, `IPFS` |
 
 ## `Discussions` : 
 
