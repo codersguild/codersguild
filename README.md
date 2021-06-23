@@ -9,8 +9,8 @@ I am a full-stack developer pursuing a [Ph.D](https://github.com/lahiri-phdworks
 | FrontEnd    | BackEnd     | Databases / Stores    | Deployments | Blockchain Tech | 
 | :---        |    :----:   |     :----:    |      :----:              |  :----:   |
 | `React`     | `Golang`    | `PostgreSQL`  | `AWS/GCP`             | [`Hyperledger Fabric`](https://github.com/lahiri-phdworks/fabric-verify) |
-| `Redux`     | `Node.js`   | `MongoDB`     | `Docker`                 | Solidity |
-| `Overmind.js`| `Express`   | `CouchDB`     | `Kubernetes`             | GOLEM Scripts |
+| `Redux`     | `Node.js`   | `MongoDB`     | `Docker`                 | `Solidity` |
+| `Overmind.js`| `Express`   | `CouchDB`     | `Kubernetes`             | `GOLEM Scripts` |
 | `HTML5`     | `Socket-IO/wss` | `MySQL`       | `Heroku`         | [`Bitcoin-Core`](https://github.com/lahiri-phdworks/bitcoin) |
 | `CSS3`      | `WebRTC`    | `LevelDB`     | `Travis CI`              | `NEM` |
 | `JavaScript`| `gRPC`      |   `Redis`   | `Netlify`, `Now.sh`        | `BlockDB`, `IPFS` |
