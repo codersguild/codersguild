@@ -6,7 +6,7 @@ I am a full-stack developer pursuing a [Ph.D](https://github.com/lahiri-phdworks
 
 ## Research GitHub : 
 
-- I maintain my open-source and research project repositories @[github.com/lahiri-phdworks](https://github.com/lahiri-phdworks). 
+- I maintain my **research** project repositories @[github.com/lahiri-phdworks](https://github.com/lahiri-phdworks). 
 
 ## Frameworks/Languages I use : 
 
