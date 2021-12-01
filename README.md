@@ -2,12 +2,15 @@
 
 ## I ❤️ developing software
 
-I am a full-stack developer pursuing a [Ph.D](https://github.com/lahiri-phdworks). from IIT Kanpur on `Program Analysis` & `Verification` using `machine learning` and `formal methods` under the supervision of [**Dr. Subhajit Roy**](https://www.cse.iitk.ac.in/users/subhajit/). 
-My technical expertise lies in delivering `full-stack` applications from `development` to `deployment`. I help startups `deliver` MVP & pre-MVP apps.  I completed my bachelors in mechanical engineering from `NIT Durgapur`.
+I am a full-stack developer pursuing a [**Ph.D**](https://github.com/lahiri-phdworks). from IIT Kanpur on **Program Analysis** & **Verification** using 
+**machine learning** and **formal methods** under the supervision of [**Dr. Subhajit Roy**](https://www.cse.iitk.ac.in/users/subhajit/). 
+My technical expertise lies in delivering **full-stack** applications from `development` to `deployment`. I help startups **deliver** MVP & pre-MVP apps.  I completed my bachelors in *mechanical engineering* from **NIT Durgapur**.
 
 ## Research GitHub : 
 
 - I maintain my **research** project repositories @[github.com/lahiri-phdworks](https://github.com/lahiri-phdworks). 
+- Program Analysis, Verification & Testing Resources : [Software-Analysis-PAVT](https://github.com/codersguild/Software-Analysis-PAVT)
+- LLVM Examples : [LLVM Examples](https://github.com/codersguild/LLVM-Examples)
 
 ## Design Compilation
 
@@ -29,9 +32,9 @@ My technical expertise lies in delivering `full-stack` applications from `develo
 
 I am available for consultation on your `tech-stack`. Schedule @ https://calendly.com/sumit-lahiri-dev/tech-discussions?month=2020-12
 
-## I am 🤩 about Software Architecture & System Design
+## I 🤩 Software Architecture & System Design
 
-For the past two years, I have been consulting various `startups` on the `tech-stack` they use. Checkout my `System Design` repository for insights and articles I read over the past years. I have implemented some of them for my own ideas and for `PingTrader` & `Pluto-Office` as well. Check out `educative.io` for an awesome course on `System Design` (recommended by [highscalability.com](https://www.highscalability.com)). Below is my `presentation` discussion at [`Uber`](https://eng.uber.com/locations/bangalore/)
+For the past two years, I have been consulting various `startups` on the `tech-stack` they use. Checkout my [System-Design](https://github.com/codersguild/System-Design/blob/master/README.md) repository for insights and articles I read over the past years. I implemented some of them for my own ideas and for `PingTrader` & `Pluto-Office`. Check out [**educative.io**](https://educative.io) for an awesome course on `System Design` (recommended by [highscalability.com](https://www.highscalability.com)). Below is my **presentation** fronm discussion at [**Uber**](https://eng.uber.com/locations/bangalore/)
 
 ![Uber Tech Presentation](https://raw.githubusercontent.com/codersguild/codersguild/master/images/uber_tech.png)
 
