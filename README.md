@@ -8,6 +8,11 @@ I am a full-stack developer pursuing a [Ph.D](https://github.com/lahiri-phdworks
 
 - I maintain my **research** project repositories @[github.com/lahiri-phdworks](https://github.com/lahiri-phdworks). 
 
+## Design Compilation
+
+- Compilation on System Design : [System-Design](https://github.com/codersguild/System-Design/blob/master/README.md)
+- Web Engineering : [Web Dev Stuff & More](https://github.com/codersguild/System-Design/blob/master/Web%20Development%20-%20Engineering/README.md)
+
 ## Frameworks/Languages I use : 
 
 | FrontEnd    | BackEnd     | Databases / Stores    | Deployments | Blockchain Tech | 
