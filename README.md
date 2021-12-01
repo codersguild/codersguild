@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b7d665b3-a61d-42e1-a5d9-9916132a85dc/deploy-status)](https://app.netlify.com/sites/lahiri/deploys)
 
-## I ❤️ developing software
+## I ❤️ developing software ([Profile](https://lahiri.netlify.app/))
 
 I am a full-stack developer pursuing a [**Ph.D**](https://github.com/lahiri-phdworks). from IIT Kanpur on **Program Analysis** & **Verification** using 
 **machine learning** and **formal methods** under the supervision of [**Dr. Subhajit Roy**](https://www.cse.iitk.ac.in/users/subhajit/). 
