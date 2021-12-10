@@ -8,7 +8,7 @@
 I am a full-stack developer pursuing a [**Ph.D**](https://github.com/lahiri-phdworks). from IIT Kanpur on **Program Analysis** & **Verification** using 
 **machine learning** and **formal methods** under the supervision of [**Dr. Subhajit Roy**](https://www.cse.iitk.ac.in/users/subhajit/). 
 
-My technical expertise lies in delivering **full-stack** applications from `development` to `deployment`. I help startups **deliver** MVP & pre-MVP apps, ping me for a [quick meet](mailto:lahiri.devs@gmail.com).  I completed my bachelors in *mechanical engineering* from **NIT Durgapur**.
+My technical expertise lies in delivering *data driven* **full-stack** applications from `development` to `deployment`. I help startups **deliver** MVP & pre-MVP apps, ping me for a [quick meet](mailto:lahiri.devs@gmail.com).  I completed my bachelors in *mechanical engineering* from **NIT Durgapur**.
 
 ## Research GitHub : 
 
