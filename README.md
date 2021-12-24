@@ -18,6 +18,7 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 
 ## Design Compilation
 
+- Designed ACM Winter School responsive Website (with React, React-MUI & Tailwind CSS) : [ACM Winter School Compilers/PL](https://acm-winter.netlify.app/)
 - Compilation on System Design : [System-Design](https://github.com/codersguild/System-Design/blob/master/README.md)
 - Web Engineering : [Web Dev Stuff & More](https://github.com/codersguild/System-Design/blob/master/Web%20Development%20-%20Engineering/README.md)
 - My Machine Learning journey : [Machine-learning-for-serious-developers](https://github.com/lahiri-phdworks/machine-learning) 
