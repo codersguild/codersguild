@@ -32,7 +32,7 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 | `Overmind.js`| `Express`   | `CouchDB`     | `Kubernetes`             | `GOLEM Scripts` |
 | `HTML5`     | `Socket-IO/wss` | `MySQL`       | `Heroku`         | [`Bitcoin-Core`](https://github.com/lahiri-phdworks/bitcoin) |
 | `CSS3`      | `WebRTC`    | `LevelDB`     | `Travis CI`              | `NEM` |
-| `JavaScript`| `gRPC`      |   `Redis`   | `Netlify`, `Now.sh`        | `BlockDB`, `IPFS` |
+| `JavaScript`| `gRPC`      |   `Redis`   | `Netlify`, `Linode`, `Digital Ocean`        | `BlockDB`, `IPFS` |
 
 ## I 🤩 Software Architecture & System Design
 
