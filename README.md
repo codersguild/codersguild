@@ -25,7 +25,7 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 
 ## Frameworks/Languages Proficiency :
 
-[![holder](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular&logoColor=white)](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular&logoColor=white)
+[![holder](https://img.shields.io/badge/-Linode-green?style=for-the-badge&logo=linode&logoColor=white)](https://img.shields.io/badge/-Linode-green?style=for-the-badge&logo=linode&logoColor=white)
 [![holder](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)
 [![holder](https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=css3&logoColor=white)
 [![holder](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
@@ -52,6 +52,7 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 [![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=11+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=11+&logoColor=color)
 [![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=14+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=14+&logoColor=color)
 [![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=7+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=7+&logoColor=color)
+[![holder](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
 
 ## I 🤩 Software Architecture & System Design
 
