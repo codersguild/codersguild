@@ -25,14 +25,29 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 
 ## Frameworks/Languages I use : 
 
-| FrontEnd    | BackEnd     | Databases / Stores    | Deployments | Blockchain Tech | 
-| :---        |    :----:   |     :----:    |      :----:              |  :----:   |
-| `React`     | `Golang`    | `PostgreSQL`  | `AWS/GCP`             | [`Hyperledger Fabric`](https://github.com/lahiri-phdworks/fabric-verify) |
-| `Redux`     | `Node.js`   | `MongoDB`     | `Docker`                 | `Solidity` |
-| `Overmind.js`| `Express`   | `CouchDB`     | `Kubernetes`             | `GOLEM Scripts` |
-| [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)     | `Socket-IO/wss` | `MySQL`       | `Heroku`         | [`Bitcoin-Core`](https://github.com/lahiri-phdworks/bitcoin) |
-| [![](https://img.shields.io/badge/-CSS-orange?style=flat-square&logo=css3&logoColor=white)](https://img.shields.io/badge/-CSS-orange?style=flat-square&logo=css3&logoColor=white)      | `WebRTC`    | `LevelDB`     | `Travis CI`              | `NEM` |
-| [![](https://img.shields.io/badge/-JavaScript-FCAA00?style=flat-square&logo=JavaScript&logoColor=white)](https://img.shields.io/badge/-JavaScript-FCAA00?style=flat-square&logo=JavaScript&logoColor=white) | `gRPC`      |   `Redis`   | `Netlify`, `Linode`, `Digital Ocean`        | `BlockDB`, `IPFS` |
+[![holder](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
+[![holder](https://img.shields.io/badge/-CSS-orange?style=flat-square&logo=css3&logoColor=white)](https://img.shields.io/badge/-CSS-orange?style=flat-square&logo=css3&logoColor=white)
+[![holder](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+[![holder](https://img.shields.io/badge/-FireBase-lightyellow?style=flat-square&logo=FIREBASE&logoColor=YELLOW)](https://img.shields.io/badge/-FireBase-lightyellow?style=flat-square&logo=FIREBASE&logoColor=YELLOW)
+[![holder](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![holder](https://img.shields.io/badge/-Golang-lightblue?style=flat-square&logo=go&logoColor=white)](https://img.shields.io/badge/-Golang-lightblue?style=flat-square&logo=go&logoColor=white)
+[![holder](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+[![holder](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+[![holder](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
+[![holder](https://img.shields.io/badge/-JavaScript-FCAA00?style=flat-square&logo=JavaScript&logoColor=white)](https://img.shields.io/badge/-JavaScript-FCAA00?style=flat-square&logo=JavaScript&logoColor=white)
+[![holder](https://img.shields.io/badge/-JIRA-blue?style=flat-square&logo=jira&logoColor=white)](https://img.shields.io/badge/-JIRA-blue?style=flat-square&logo=jira&logoColor=white)
+[![holder](https://img.shields.io/badge/-JITSI-white?style=flat-square&logo=jitsi&logoColor=blue)](https://img.shields.io/badge/-JITSI-white?style=flat-square&logo=jitsi&logoColor=blue)
+[![holder](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+[![holder](https://img.shields.io/badge/-netlify-blue?style=flat-square&logo=netlify&logoColor=green)](https://img.shields.io/badge/-netlify-blue?style=flat-square&logo=netlify&logoColor=green)
+[![holder](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+[![holder](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+[![holder](https://img.shields.io/badge/-PostgreSQL-brightgreen?style=flat-square&logo=postgresql&logoColor=white)](https://img.shields.io/badge/-PostgreSQL-brightgreen?style=flat-square&logo=postgresql&logoColor=white)
+[![holder](https://img.shields.io/badge/-python-lightyellow?style=flat-square&logo=python&logoColor=color)](https://img.shields.io/badge/-python-lightyellow?style=flat-square&logo=python&logoColor=color)
+[![holder](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+[![holder](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+[![holder](https://img.shields.io/badge/-scala-red?style=flat-square&logo=scala&logoColor=white)](https://img.shields.io/badge/-scala-red?style=flat-square&logo=scala&logoColor=white)
+[![holder](https://img.shields.io/badge/-Travis-lightyellow?style=flat-square&logo=travis&logoColor=black)](https://img.shields.io/badge/-Travis-lightyellow?style=flat-square&logo=travis&logoColor=black)
+[![holder](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ## I 🤩 Software Architecture & System Design
 
