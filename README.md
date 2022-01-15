@@ -23,7 +23,7 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 - Web Engineering : [Web Dev Stuff & More](https://github.com/codersguild/System-Design/blob/master/Web%20Development%20-%20Engineering/README.md)
 - My Machine Learning journey : [Machine-learning-for-serious-developers](https://github.com/lahiri-phdworks/machine-learning) 
 
-## Frameworks/Languages Proficiency :
+## Frameworks/Languages Experience :
 
 [![holder](https://img.shields.io/badge/-Linode-green?style=for-the-badge&logo=linode&logoColor=white)](https://img.shields.io/badge/-Linode-green?style=for-the-badge&logo=linode&logoColor=white)
 [![holder](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)
