@@ -18,7 +18,7 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 
 ## Design Compilation
 
-- Designed ACM Winter School responsive Website (with React, React-MUI & Tailwind CSS) : [ACM Winter School Compilers/PL](https://acm-winter.netlify.app/)
+- Designed ACM Winter School responsive Website (with React, React-MUI & Tailwind CSS) : [ACM Winter School Compilers/PL](winterschool2022.cse.iitk.ac.in)
 - Compilation on System Design : [System-Design](https://github.com/codersguild/System-Design/blob/master/README.md)
 - Web Engineering : [Web Dev Stuff & More](https://github.com/codersguild/System-Design/blob/master/Web%20Development%20-%20Engineering/README.md)
 - My Machine Learning journey : [Machine-learning-for-serious-developers](https://github.com/lahiri-phdworks/machine-learning) 
@@ -30,9 +30,9 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 | `React`     | `Golang`    | `PostgreSQL`  | `AWS/GCP`             | [`Hyperledger Fabric`](https://github.com/lahiri-phdworks/fabric-verify) |
 | `Redux`     | `Node.js`   | `MongoDB`     | `Docker`                 | `Solidity` |
 | `Overmind.js`| `Express`   | `CouchDB`     | `Kubernetes`             | `GOLEM Scripts` |
-| `HTML5`     | `Socket-IO/wss` | `MySQL`       | `Heroku`         | [`Bitcoin-Core`](https://github.com/lahiri-phdworks/bitcoin) |
-| `CSS3`      | `WebRTC`    | `LevelDB`     | `Travis CI`              | `NEM` |
-| `JavaScript`| `gRPC`      |   `Redis`   | `Netlify`, `Linode`, `Digital Ocean`        | `BlockDB`, `IPFS` |
+| [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)     | `Socket-IO/wss` | `MySQL`       | `Heroku`         | [`Bitcoin-Core`](https://github.com/lahiri-phdworks/bitcoin) |
+| [![](https://img.shields.io/badge/-CSS-orange?style=flat-square&logo=css3&logoColor=white)](https://img.shields.io/badge/-CSS-orange?style=flat-square&logo=css3&logoColor=white)      | `WebRTC`    | `LevelDB`     | `Travis CI`              | `NEM` |
+| [![](https://img.shields.io/badge/-JavaScript-FCAA00?style=flat-square&logo=JavaScript&logoColor=white)](https://img.shields.io/badge/-JavaScript-FCAA00?style=flat-square&logo=JavaScript&logoColor=white) | `gRPC`      |   `Redis`   | `Netlify`, `Linode`, `Digital Ocean`        | `BlockDB`, `IPFS` |
 
 ## I 🤩 Software Architecture & System Design
 
