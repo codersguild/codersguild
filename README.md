@@ -49,7 +49,9 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 [![holder](https://img.shields.io/badge/-scala-red?style=for-the-badge&logo=scala&logoColor=white)](https://img.shields.io/badge/-scala-red?style=for-the-badge&logo=scala&logoColor=white)
 [![holder](https://img.shields.io/badge/-Travis-lightyellow?style=for-the-badge&logo=travis&logoColor=black)](https://img.shields.io/badge/-Travis-lightyellow?style=for-the-badge&logo=travis&logoColor=black)
 [![holder](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-[![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=10+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=10+&logoColor=color)
+[![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=11+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=11+&logoColor=color)
+[![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=14+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=14+&logoColor=color)
+[![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=7+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=7+&logoColor=color)
 
 ## I 🤩 Software Architecture & System Design
 
