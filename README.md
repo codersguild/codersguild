@@ -38,32 +38,26 @@ These videos shed light on some of the tools, techniques and problems that I tac
 [![holder](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)
 [![holder](https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=css3&logoColor=white)
 [![holder](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
-
 [![holder](https://img.shields.io/badge/-FireBase-lightyellow?style=for-the-badge&logo=FIREBASE&logoColor=YELLOW)](https://img.shields.io/badge/-FireBase-lightyellow?style=for-the-badge&logo=FIREBASE&logoColor=YELLOW)
 [![holder](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 [![holder](https://img.shields.io/badge/-Golang-lightblue?style=for-the-badge&logo=go&logoColor=white)](https://img.shields.io/badge/-Golang-lightblue?style=for-the-badge&logo=go&logoColor=white)
 [![holder](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
 [![holder](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 [![holder](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 [![holder](https://img.shields.io/badge/-JavaScript-FCAA00?style=for-the-badge&logo=JavaScript&logoColor=white)](https://img.shields.io/badge/-JavaScript-FCAA00?style=for-the-badge&logo=JavaScript&logoColor=white)
 [![holder](https://img.shields.io/badge/-JIRA-blue?style=for-the-badge&logo=jira&logoColor=white)](https://img.shields.io/badge/-JIRA-blue?style=for-the-badge&logo=jira&logoColor=white)
-
 [![holder](https://img.shields.io/badge/-JITSI-white?style=for-the-badge&logo=jitsi&logoColor=blue)](https://img.shields.io/badge/-JITSI-white?style=for-the-badge&logo=jitsi&logoColor=blue)
 [![holder](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 [![holder](https://img.shields.io/badge/-netlify-blue?style=for-the-badge&logo=netlify&logoColor=green)](https://img.shields.io/badge/-netlify-blue?style=for-the-badge&logo=netlify&logoColor=green)
 [![holder](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-
 [![holder](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 [![holder](https://img.shields.io/badge/-PostgreSQL-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white)](https://img.shields.io/badge/-PostgreSQL-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white)
 [![holder](https://img.shields.io/badge/-python-lightyellow?style=for-the-badge&logo=python&logoColor=color)](https://img.shields.io/badge/-python-lightyellow?style=for-the-badge&logo=python&logoColor=color)
 [![holder](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)
-
 [![holder](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 [![holder](https://img.shields.io/badge/-scala-red?style=for-the-badge&logo=scala&logoColor=white)](https://img.shields.io/badge/-scala-red?style=for-the-badge&logo=scala&logoColor=white)
 [![holder](https://img.shields.io/badge/-Travis-lightyellow?style=for-the-badge&logo=travis&logoColor=black)](https://img.shields.io/badge/-Travis-lightyellow?style=for-the-badge&logo=travis&logoColor=black)
 [![holder](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
 [![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=11+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=11+&logoColor=color)
 [![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=14+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=14+&logoColor=color)
 [![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=7+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=7+&logoColor=color)
@@ -71,7 +65,7 @@ These videos shed light on some of the tools, techniques and problems that I tac
 
 ## I 🤩 Software Architecture & System Design
 
-For the past two years, I have been consulting various `startups` on the `tech-stack` they use. Checkout my [System-Design](https://github.com/codersguild/System-Design/blob/master/README.md) repository for insights and articles I read over the past years. I implemented some of them for my own ideas and for `PingTrader` & `Pluto-Office`. Check out [**educative.io**](https://educative.io) for an awesome course on `System Design` (recommended by [highscalability.com](https://www.highscalability.com)). Below is my **presentation** fronm discussion at [**Uber**](https://eng.uber.com/locations/bangalore/)
+For the past few years, I have been consulting various `startups` on the `tech-stack` they use, helping them out in some of their `technical` endevours. Checkout my [System-Design](https://github.com/codersguild/System-Design/blob/master/README.md) repository for insights and articles I read and collected over the past years. I implemented some of them for my own ideas and for `PingTrader` & `Pluto-Office`. Check out [**educative.io**](https://educative.io) for an awesome course on `System Design` (recommended by [highscalability.com](https://www.highscalability.com)). Below is my **presentation** fronm discussion at [**Uber**](https://eng.uber.com/locations/bangalore/)
 
 ![Uber Tech Presentation](https://raw.githubusercontent.com/codersguild/codersguild/master/images/uber_tech.png)
 
