@@ -16,7 +16,19 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 - Program Analysis, Verification & Testing Resources : [Software-Analysis-PAVT](https://github.com/codersguild/Software-Analysis-PAVT)
 - LLVM Examples : [LLVM Examples](https://github.com/codersguild/LLVM-Examples)
 
-## Design Compilation
+### Videos
+
+These videos shed light on some of the tools, techniques and problems that I tackle in my PhD. The exact problems, tools and nature of the solution varies a lot from what is shown here but since it I am working on new unsolved problems, but the general overview is quite same.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-CTNS2D-kbY/1.jpg)](https://www.youtube.com/watch?v=-CTNS2D-kbY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tjkLPErCFW0/1.jpg)](https://www.youtube.com/watch?v=tjkLPErCFW0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QLIQpF9ENqk/3.jpg)](https://www.youtube.com/watch?v=QLIQpF9ENqk)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PS-4yD5WgCQ/2.jpg)](https://www.youtube.com/watch?v=PS-4yD5WgCQ&list=PLBmY8PAxzwIEGtnJiucyGAnwWpxACE633)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JhCsnws7vuw/3.jpg)](https://www.youtube.com/watch?v=JhCsnws7vuw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/te2iYyZfckg/3.jpg)](https://www.youtube.com/watch?v=te2iYyZfckg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RxL_1AfV7N4/2.jpg)](https://www.youtube.com/watch?v=RxL_1AfV7N4)
+
+## More Repos Compilation
 
 - Designed ACM Winter School responsive Website (with React, React-MUI & Tailwind CSS) : [ACM Winter School Compilers/PL](winterschool2022.cse.iitk.ac.in)
 - Compilation on System Design : [System-Design](https://github.com/codersguild/System-Design/blob/master/README.md)
