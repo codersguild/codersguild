@@ -2,14 +2,14 @@
 
 ## I ❤️ developing software ([Profile](https://lahiri.netlify.app/))
 
-I am a full-stack developer pursuing a [**Ph.D**](https://github.com/lahiri-phdworks). from IIT Kanpur on **Program Analysis** & **Verification** using 
+I am a full-stack developer pursuing [**Ph.D**](https://github.com/lahiri-phdworks). from IIT Kanpur on **Program Analysis** & **Verification** using 
 **machine learning** and **formal methods** under the supervision of [**Dr. Subhajit Roy**](https://www.cse.iitk.ac.in/users/subhajit/). 
 
 My technical expertise lies in delivering *data driven* **full-stack** applications from `development` to `deployment`. I help startups **deliver** MVP & pre-MVP apps, ping me for a [quick meet](mailto:lahiri.devs@gmail.com).  I completed my bachelors in **mechanical engineering** from **NIT Durgapur**.
 
 ## Research GitHub : 
 
-- I maintain my **research** project repositories @[github.com/lahiri-phdworks](https://github.com/lahiri-phdworks). 
+- I maintain my **research** project repositories here, @[github.com/lahiri-phdworks](https://github.com/lahiri-phdworks). 
 - Program Analysis, Verification & Testing Resources : [Software-Analysis-PAVT](https://github.com/codersguild/Software-Analysis-PAVT)
 - LLVM Examples : [LLVM Examples](https://github.com/codersguild/LLVM-Examples)
 
