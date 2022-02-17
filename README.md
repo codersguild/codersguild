@@ -5,7 +5,7 @@
 I am a full-stack developer pursuing a [**Ph.D**](https://github.com/lahiri-phdworks). from IIT Kanpur on **Program Analysis** & **Verification** using 
 **machine learning** and **formal methods** under the supervision of [**Dr. Subhajit Roy**](https://www.cse.iitk.ac.in/users/subhajit/). 
 
-My technical expertise lies in delivering *data driven* **full-stack** applications from `development` to `deployment`. I help startups **deliver** MVP & pre-MVP apps, ping me for a [quick meet](mailto:lahiri.devs@gmail.com).  I completed my bachelors in *mechanical engineering* from **NIT Durgapur**.
+My technical expertise lies in delivering *data driven* **full-stack** applications from `development` to `deployment`. I help startups **deliver** MVP & pre-MVP apps, ping me for a [quick meet](mailto:lahiri.devs@gmail.com).  I completed my bachelors in **mechanical engineering** from **NIT Durgapur**.
 
 ## Research GitHub : 
 
@@ -18,7 +18,6 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 These videos shed light on some of the tools, techniques and problems that I tackle in my PhD. The exact problems, tools and nature of the solution varies a lot from what is shown here but since it I am working on new unsolved problems, but the general overview is quite same.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-CTNS2D-kbY/1.jpg)](https://www.youtube.com/watch?v=-CTNS2D-kbY)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tjkLPErCFW0/1.jpg)](https://www.youtube.com/watch?v=tjkLPErCFW0)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QLIQpF9ENqk/3.jpg)](https://www.youtube.com/watch?v=QLIQpF9ENqk)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PS-4yD5WgCQ/2.jpg)](https://www.youtube.com/watch?v=PS-4yD5WgCQ&list=PLBmY8PAxzwIEGtnJiucyGAnwWpxACE633)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JhCsnws7vuw/3.jpg)](https://www.youtube.com/watch?v=JhCsnws7vuw)
