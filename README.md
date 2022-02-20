@@ -61,6 +61,7 @@ These videos shed light on some of the tools, techniques and problems that I tac
 [![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=14+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=14+&logoColor=color)
 [![holder](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=7+&logoColor=color)](https://img.shields.io/static/v1?label=LLVM&color=lightyellow&logo=llvm&style=for-the-badge&message=7+&logoColor=color)
 [![holder](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
+<a href="https://www.digitalocean.com"><img src="https://www.digitalocean.com/assets/v2/digitalocean-small-badge.png" alt="cloud server, cloud hosting, VPS server"></a>
 
 ## I 🤩 Software Architecture & System Design
 
