@@ -12,17 +12,7 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 - I maintain my **research** project repositories here, @[github.com/lahiri-phdworks](https://github.com/lahiri-phdworks). 
 - Program Analysis, Verification & Testing Resources : [Software-Analysis-PAVT](https://github.com/codersguild/Software-Analysis-PAVT)
 - LLVM Examples : [LLVM Examples](https://github.com/codersguild/LLVM-Examples)
-
-### Videos
-
-These videos shed light on some of the tools, techniques and problems that I tackle in my PhD. The exact problems, tools and nature of the solution varies a lot from what is shown here but since it I am working on new unsolved problems, but the general overview is quite same.
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-CTNS2D-kbY/1.jpg)](https://www.youtube.com/watch?v=-CTNS2D-kbY)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QLIQpF9ENqk/3.jpg)](https://www.youtube.com/watch?v=QLIQpF9ENqk)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PS-4yD5WgCQ/2.jpg)](https://www.youtube.com/watch?v=PS-4yD5WgCQ&list=PLBmY8PAxzwIEGtnJiucyGAnwWpxACE633)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JhCsnws7vuw/3.jpg)](https://www.youtube.com/watch?v=JhCsnws7vuw)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/te2iYyZfckg/3.jpg)](https://www.youtube.com/watch?v=te2iYyZfckg)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RxL_1AfV7N4/2.jpg)](https://www.youtube.com/watch?v=RxL_1AfV7N4)
+- Presenting in LLVM CGO Performance Workshop : [LLVM CGO https://llvm.org/devmtg/2022-04-03/](https://llvm.org/devmtg/2022-04-03/)
 
 ## More Repos Compilation
 
