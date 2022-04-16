@@ -12,7 +12,8 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 - I maintain my **research** project repositories here, @[github.com/lahiri-phdworks](https://github.com/lahiri-phdworks). 
 - Program Analysis, Verification & Testing Resources : [Software-Analysis-PAVT](https://github.com/codersguild/Software-Analysis-PAVT)
 - LLVM Examples : [LLVM Examples](https://github.com/codersguild/LLVM-Examples)
-- Presenting in LLVM CGO Performance Workshop : [LLVM CGO https://llvm.org/devmtg/2022-04-03/](https://llvm.org/devmtg/2022-04-03/)
+- Presenting our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea) : [Sixth LLVM Performance Workshop at CGO](https://llvm.org/devmtg/2022-04-03/)
+- Our work on **Almost Correct Invariants** got accepted in ISSTA 2022 (Daejeon, South Korea). [ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/home/issta-2022)
 
 ## More Repos Compilation
 
