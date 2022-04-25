@@ -9,7 +9,7 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 
 ## Research GitHub : 
 
-- I maintain my **research** project repositories here, @[github.com/lahiri-phdworks](https://github.com/lahiri-phdworks). 
+- I maintain my **research** related repositories here, @[github.com/lahiri-phdworks](https://github.com/lahiri-phdworks). 
 - Program Analysis, Verification & Testing Resources : [Software-Analysis-PAVT](https://github.com/codersguild/Software-Analysis-PAVT)
 - LLVM Examples : [LLVM Examples](https://github.com/codersguild/LLVM-Examples)
 - Presenting our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea) : [Sixth LLVM Performance Workshop at CGO](https://llvm.org/devmtg/2022-04-03/)
