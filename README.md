@@ -56,7 +56,7 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 
 ## I 🤩 Software Architecture & System Design
 
-For the past few years, I have been consulting various `startups` on the `tech-stack` they use, helping them out in some of their `technical` endevours. Checkout my [System-Design](https://github.com/codersguild/System-Design/blob/master/README.md) repository for insights and articles I read and collected over the past years. I implemented some of them for my own ideas and for `PingTrader` & `Pluto-Office`. Check out [**educative.io**](https://educative.io) for an awesome course on `System Design` (recommended by [highscalability.com](https://www.highscalability.com)). Below is my **presentation** fronm discussion at [**Uber**](https://eng.uber.com/locations/bangalore/)
+For the past few years, I have been consulting various `startups` on the `tech-stack` they use and helping them out in some of their `technical` endevours. Checkout my [System-Design](https://github.com/codersguild/System-Design/blob/master/README.md) repository for insights and articles I read and collected over the past years. I implemented some of them for my own ideas and for `PingTrader` & `Pluto-Office`. Check out [**educative.io**](https://educative.io) for an awesome course on `System Design` (recommended by [highscalability.com](https://www.highscalability.com)). A discussion snippet from my presentation at [**Uber**](https://eng.uber.com/locations/bangalore/)
 
 ![Uber Tech Presentation](https://raw.githubusercontent.com/codersguild/codersguild/master/images/uber_tech.png)
 
@@ -67,4 +67,4 @@ For the past few years, I have been consulting various `startups` on the `tech-s
 </a>
 <a href="https://github.com/codersguild">
  <img align="center"  height="75%" width="60%" src="https://github-readme-stats.vercel.app/api?username=codersguild&count_private=true&show_icons=true&theme=light&line_height=30" alt="Sumit Lahiri's GitHub Stats"/>
-  </a>
+ </a>
