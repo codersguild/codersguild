@@ -9,9 +9,9 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 
 ## Research GitHub : 
 
-- Presenting our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea) : [Sixth LLVM Performance Workshop at CGO](https://llvm.org/devmtg/2022-04-03/)
-- Our work on **Almost Correct Invariants** got accepted in ISSTA 2022 (Daejeon, South Korea). [ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/home/issta-2022)
-- I maintain my **research** related repositories here, @[github.com/lahiri-phdworks](https://github.com/lahiri-phdworks). 
+- Presented our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea) : [Sixth LLVM Performance Workshop at CGO](https://llvm.org/devmtg/2022-04-03/)
+- Our work on **Almost Correct Invariants** got accepted in ISSTA 2022 (Daejeon, South Korea). [ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/track/issta-2022/issta-2022-technical-papers#event-overview)
+- Our work on **Symbolic Execution for Randomized Programs** got accepted in OOPSLA 2022 (Round 2). [ACM SIGSOFT Object-Oriented Programming, Systems, Languages \& Applications (OOPSLA)](https://2022.splashcon.org/track/splash-2022-oopsla#event-overview)
 
 ## More Repos Compilation
 
