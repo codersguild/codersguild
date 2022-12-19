@@ -7,11 +7,12 @@ I am a full-stack developer pursuing [**Ph.D**](https://github.com/lahiri-phdwor
 
 My technical expertise lies in delivering *data driven* **full-stack** applications from `development` to `deployment`. I help startups **deliver** MVP & pre-MVP apps, ping me for a [quick meet](mailto:lahiri.devs@gmail.com).  I completed my bachelors in **mechanical engineering** from **NIT Durgapur**.
 
-## Research GitHub : 
+## Research 
 
-- Presented our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea) : [Sixth LLVM Performance Workshop at CGO](https://llvm.org/devmtg/2022-04-03/)
+- Presented our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea): [Sixth LLVM Performance Workshop at CGO](https://llvm.org/devmtg/2022-04-03/)
+- SPLASH 2022 Doctoral Symposium Paper: [https://dl.acm.org/doi/abs/10.1145/3563768.3565551](https://dl.acm.org/doi/abs/10.1145/3563768.3565551)
 - Our work on **Almost Correct Invariants** got accepted in ISSTA 2022 (Daejeon, South Korea). [ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/track/issta-2022/issta-2022-technical-papers#event-overview)
-- Our work on **Symbolic Execution for Randomized Programs** got accepted in OOPSLA 2022 (Round 2). [ACM SIGSOFT Object-Oriented Programming, Systems, Languages \& Applications (OOPSLA)](https://2022.splashcon.org/track/splash-2022-oopsla#event-overview)
+- Our work on **Symbolic Execution for Randomized Programs** got accepted in OOPSLA 2022 (Round 2). [ACM SIGSOFT Object-Oriented Programming, Systems, Languages \& Applications (OOPSLA)](https://dl.acm.org/doi/abs/10.1145/3563344)
 
 ## More Repos Compilation
 
