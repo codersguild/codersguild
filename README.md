@@ -7,6 +7,8 @@ I am a full-stack developer pursuing [**Ph.D**](https://github.com/lahiri-phdwor
 
 My technical expertise lies in delivering *data driven* **full-stack** applications from `development` to `deployment`. I help startups **deliver** MVP & beta apps, ping me for a [quick meet](mailto:lahiri.devs@gmail.com).  I completed my bachelors in **mechanical engineering** from **NIT Durgapur**.
 
+ - [How to Build An MVP | Startup School](https://www.youtube.com/watch?v=QRZ_l7cVzzU)
+
 ## Research 
 
 - Presented our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea): [Sixth LLVM Performance Workshop at CGO](https://llvm.org/devmtg/2022-04-03/)
