@@ -5,7 +5,8 @@
 I am a full-stack developer pursuing [**Ph.D**](https://github.com/lahiri-phdworks). from IIT Kanpur on **Program Analysis** & **Verification** using 
 **machine learning** and **formal methods** under the supervision of [**Dr. Subhajit Roy**](https://www.cse.iitk.ac.in/users/subhajit/). 
 
-My technical expertise lies in delivering *data driven* **full-stack** applications from `development` to `deployment`. I help startups **deliver** MVP & beta apps, ping me for a [quick meet](mailto:lahiri.devs@gmail.com).  I completed my bachelors in **mechanical engineering** from **NIT Durgapur**.
+My technical expertise lies in delivering *data driven* **full-stack** applications from **development** to **deployment**. I joined **Zero3 Inc** as a **CTO**. (April 2024) 
+I help startups **deliver** their technical goals, ping me for a [quick meet](mailto:lahiri.devs@gmail.com).  I completed my bachelors in **mechanical engineering** from **NIT Durgapur**.
 
  - [How to Build An MVP | Startup School](https://www.youtube.com/watch?v=QRZ_l7cVzzU)
 
@@ -15,16 +16,18 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 - SPLASH 2022 Doctoral Symposium Paper (**Almost Verification**): [https://dl.acm.org/doi/abs/10.1145/3563768.3565551](https://dl.acm.org/doi/abs/10.1145/3563768.3565551)
 - Our work on **Almost Correct Invariants** got accepted in ISSTA 2022 (Daejeon, South Korea). [ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/track/issta-2022/issta-2022-technical-papers#event-overview)
 - Our work on **Symbolic Execution for Randomized Programs** got accepted in OOPSLA 2022 (Round 2). [ACM SIGSOFT Object-Oriented Programming, Systems, Languages \& Applications (OOPSLA)](https://dl.acm.org/doi/abs/10.1145/3563344)
+- LLVM MeetUp Talk on **Hot Path SSA**: [LLVM MeetUp Talk](https://www.youtube.com/watch?si=kqmmJpQ0SeLiHtgt&v=GW_icF7J2kY&feature=youtu.be)
 
 ## More Repos Compilation
 
 - Designed website for Shubaarambh'22 PhD Meet in CS IITK. [https://shubhaarambh.netlify.app/](https://shubhaarambh.netlify.app/)
-- Designed ACM Winter School responsive Website (with React, React-MUI & Tailwind CSS) : [ACM Winter School Compilers/PL](https://winterschool2022.cse.iitk.ac.in)
+- Designed ACM Winter School Website (with React, React-MUI & Tailwind CSS): [ACM Winter School Compilers/PL](https://winterschool2022.cse.iitk.ac.in)
+- Designed Summer School IIT Kanpur website: [https://summerschool.cse.iitk.ac.in/](https://summerschool.cse.iitk.ac.in/)
+- Design History Society IIT Kanpur website: [https://www.historysocietyiitk.in/](https://www.historysocietyiitk.in/)
 - Program Analysis, Verification & Testing Resources : [Software-Analysis-PAVT](https://github.com/codersguild/Software-Analysis-PAVT)
 - LLVM Examples : [LLVM Examples](https://github.com/codersguild/LLVM-Examples)
 - Compilation on System Design : [System-Design](https://github.com/codersguild/System-Design/blob/master/README.md)
 - Web Engineering : [Web Dev Stuff & More](https://github.com/codersguild/System-Design/blob/master/Web%20Development%20-%20Engineering/README.md)
-- My Machine Learning journey : [Machine-learning-for-serious-developers](https://github.com/lahiri-phdworks/machine-learning) 
 
 ## Frameworks/Languages Experience :
 
@@ -60,7 +63,13 @@ My technical expertise lies in delivering *data driven* **full-stack** applicati
 
 ## I 🤩 Software Architecture & System Design
 
-For the past few years, I have been consulting various `startups` on the `tech-stack` they use and helping them out in some of their `technical` endevours. Checkout my [System-Design](https://github.com/codersguild/System-Design/blob/master/README.md) repository for insights and articles I read and collected over the past years. I implemented some of them for my own ideas and for `PingTrader` & `Pluto-Office`. Check out [**educative.io**](https://educative.io) for an awesome course on `System Design` (recommended by [highscalability.com](https://www.highscalability.com)). A discussion snippet from my presentation at [**Uber**](https://eng.uber.com/locations/bangalore/)
+For the past few years, I have been consulting various `startups` on the `tech-stack` they use and helping them out in some of their `technical` endevours. 
+
+- Checkout my [System-Design](https://github.com/codersguild/System-Design/blob/master/README.md) repository for insights and articles I read and collected over the past years. I 
+implemented some of them for my own ideas and for **PingTrader**, **Pluto-Office** and other startups that I have worked with. 
+
+- Check out [**educative.io**](https://educative.io) for an awesome course on `System Design` (recommended by [highscalability.com](https://www.highscalability.com)).
+- A discussion snippet from my presentation at [**Uber**](https://eng.uber.com/locations/bangalore/)
 
 ![Uber Tech Presentation](https://raw.githubusercontent.com/codersguild/codersguild/master/images/uber_tech.png)
 
@@ -71,4 +80,4 @@ For the past few years, I have been consulting various `startups` on the `tech-s
 </a>
 <a href="https://github.com/codersguild">
  <img align="center"  height="75%" width="60%" src="https://github-readme-stats.vercel.app/api?username=codersguild&count_private=true&show_icons=true&theme=light&line_height=30" alt="Sumit Lahiri's GitHub Stats"/>
- </a>
+</a>
