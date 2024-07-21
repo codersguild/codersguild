@@ -12,10 +12,11 @@ I help startups **deliver** their technical goals, ping me for a [quick meet](ma
 
 ## Research 
 
-- Presented our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea): [Sixth LLVM Performance Workshop at CGO](https://llvm.org/devmtg/2022-04-03/)
-- SPLASH 2022 Doctoral Symposium Paper (**Almost Verification**): [https://dl.acm.org/doi/abs/10.1145/3563768.3565551](https://dl.acm.org/doi/abs/10.1145/3563768.3565551)
-- Our work on **Almost Correct Invariants** got accepted in ISSTA 2022 (Daejeon, South Korea). [ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)](https://conf.researchr.org/track/issta-2022/issta-2022-technical-papers#event-overview)
-- Our work on **Symbolic Execution for Randomized Programs** got accepted in OOPSLA 2022 (Round 2). [ACM SIGSOFT Object-Oriented Programming, Systems, Languages \& Applications (OOPSLA)](https://dl.acm.org/doi/abs/10.1145/3563344)
+- Presented our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea) : [Sixth LLVM Performance Workshop at CGO-2022](https://www.youtube.com/watch?v=ECwP3HRP0Z4)
+- Our work on **Chiron Framework** got accepted in 38th IEEE/ACM International Conference on Automated Software Engineering (ASE). [An Integrated Program Analysis Framework for Graduate Courses in Programming Languages and Software Engineering](https://www.computer.org/csdl/proceedings-article/ase/2023/299600a598/1SBGAaQGZi0)
+- My Doctoral Symposium at SPLASH 2022 (OOPSLA2-2022). [https://2022.splashcon.org/details/splash-2022-Doctoral-Symposium/8/Verification-of-Programs-with-Concealed-Components](https://2022.splashcon.org/details/splash-2022-Doctoral-Symposium/8/Verification-of-Programs-with-Concealed-Components)
+- Our work on **Almost Correct Invariants** got accepted in ISSTA 2022 (Daejeon, South Korea). [https://dl.acm.org/doi/10.1145/3533767.3534381](https://dl.acm.org/doi/10.1145/3533767.3534381)
+- Our work on **Symbolic Execution for Randomized Programs** got accepted in OOPSLA 2022 (Round 2). [https://dl.acm.org/doi/10.1145/3563344](https://dl.acm.org/doi/10.1145/3563344)
 - LLVM MeetUp Talk on **Hot Path SSA**: [LLVM MeetUp Talk](https://www.youtube.com/watch?si=kqmmJpQ0SeLiHtgt&v=GW_icF7J2kY&feature=youtu.be)
 
 ## More Repos Compilation
