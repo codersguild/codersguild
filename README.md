@@ -5,7 +5,7 @@
 I am a full-stack developer pursuing [**Ph.D**](https://github.com/lahiri-phdworks). from IIT Kanpur on **Program Analysis** & **Verification** using 
 **machine learning** and **formal methods** under the supervision of [**Dr. Subhajit Roy**](https://www.cse.iitk.ac.in/users/subhajit/). 
 
-My technical expertise lies in delivering *data driven* **full-stack** applications from **development** to **deployment**. Building web-apps for **Zero3 Inc** as a **Tech Lead**.
+My technical expertise lies in delivering *data driven* **full-stack** applications from **development** to **deployment**. Building web-apps for [**Zero3 Inc**](https://zero-three.co.jp/en/) as a **Tech Lead**.
 I help startups **deliver** their technical goals, ping me for a [quick meet](mailto:lahiri.devs@gmail.com).  I completed my bachelors in **mechanical engineering** from **NIT Durgapur**.
 
  - [How to Build An MVP | Startup School](https://www.youtube.com/watch?v=QRZ_l7cVzzU)
