@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b7d665b3-a61d-42e1-a5d9-9916132a85dc/deploy-status)](https://app.netlify.com/sites/lahiri/deploys)
-
 ## I ❤️ developing software ([Profile](https://lahiri.netlify.app/))
 
 I am a full-stack developer pursuing [**Ph.D**](https://github.com/lahiri-phdworks). from IIT Kanpur on **Program Analysis** & **Verification** using 
@@ -10,6 +8,12 @@ I help startups **deliver** their technical goals, ping me for a [quick meet](ma
 
  - [How to Build An MVP | Startup School](https://www.youtube.com/watch?v=QRZ_l7cVzzU)
 
+## ACM Computing Publish
+- [https://dl.acm.org/profile/99660519568/publications?Role=author](https://dl.acm.org/profile/99660519568/publications?Role=author)
+
+## DPLB Link.
+- [https://dblp.org/pid/325/0902.html](https://dblp.org/pid/325/0902.html)
+ 
 ## Research 
 
 - Presented our work on **Hot Path SSA** in Sixth LLVM Performance Workshop at CGO (Seoul, South Korea) : [Sixth LLVM Performance Workshop at CGO-2022](https://www.youtube.com/watch?v=ECwP3HRP0Z4)
