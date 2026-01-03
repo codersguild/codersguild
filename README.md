@@ -32,7 +32,7 @@ I help startups **deliver** their technical goals, ping me for a [quick meet](ma
 - Program Analysis, Verification & Testing Resources : [Software-Analysis-PAVT](https://github.com/codersguild/Software-Analysis-PAVT)
 - LLVM Examples : [LLVM Examples](https://github.com/codersguild/LLVM-Examples)
 - Compilation on System Design : [System-Design](https://github.com/codersguild/System-Design/blob/master/README.md)
-- Web Engineering : [Web Dev Stuff & More](https://github.com/codersguild/System-Design/blob/master/Web%20Development%20-%20Engineering/README.md)
+- Web Engineering : [Web Dev Stuff & More](https://github.com/awesome-web-projects)
 
 ## Frameworks/Languages Experience :
 
@@ -78,7 +78,7 @@ implemented some of them for my own ideas and for **PingTrader**, **Pluto-Office
 
 ![Uber Tech Presentation](https://raw.githubusercontent.com/codersguild/codersguild/master/images/uber_tech.png)
 
-#### Slack Campus Lead : https://slackcommunity.com/u/mbhef9/#/about 
+#### Slack Campus Lead: https://slackcommunity.com/u/mbhef9/#/about 
 
 <a href="https://github.com/codersguild">
   <img align="center" height="35%" width="37%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersguild&show_icons=true&theme=light&line_height=30" />
