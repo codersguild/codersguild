@@ -79,10 +79,3 @@ implemented some of them for my own ideas and for **PingTrader**, **Pluto-Office
 ![Uber Tech Presentation](https://raw.githubusercontent.com/codersguild/codersguild/master/images/uber_tech.png)
 
 #### Slack Campus Lead: https://slackcommunity.com/u/mbhef9/#/about 
-
-<a href="https://github.com/codersguild">
-  <img align="center" height="35%" width="37%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersguild&show_icons=true&theme=light&line_height=30" />
-</a>
-<a href="https://github.com/codersguild">
- <img align="center"  height="75%" width="60%" src="https://github-readme-stats.vercel.app/api?username=codersguild&count_private=true&show_icons=true&theme=light&line_height=30" alt="Sumit Lahiri's GitHub Stats"/>
-</a>
